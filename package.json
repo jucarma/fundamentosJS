@@ -1,0 +1,24 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "curso de introduccion a javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jucarma/fundamentosJS.git"
+  },
+  "keywords": [
+    "JS",
+    "Node",
+    "Web"
+  ],
+  "author": "Juan Carlos Armengod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jucarma/fundamentosJS/issues"
+  },
+  "homepage": "https://github.com/jucarma/fundamentosJS#readme"
+}
