@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jucarma/fundamentosJS/issues"
   },
-  "homepage": "https://github.com/jucarma/fundamentosJS#readme"
+  "homepage": "https://github.com/jucarma/fundamentosJS#readme",
+  "dependencies": {
+    "eslint": "^7.5.0"
+  }
 }
