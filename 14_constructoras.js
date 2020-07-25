@@ -12,7 +12,7 @@ function Usuario (nombre, edad) {
     //this.saludar = function() {console.log(`Hola soy ${this.name}`)}
 }
 
-Usuario.prototype.saludar = function() {console.log(`Hola soy ${this.name}`)}
+Usuario.prototype.saludar = function() {console.log(`Hola soy ${this.nombre}`)}
 
 const o2 = new Usuario('Maria', 26)
 console.log(o2)
@@ -21,6 +21,8 @@ console.log(o2.__proto__)
 
 const o3 = new Usuario('Elena', 33)
 const o4 = new Usuario('Raul', 43)
+o4.altura = 180
+
 console.log(o3)
 console.log(o4)
 
